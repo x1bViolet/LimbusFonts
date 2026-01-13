@@ -9,7 +9,7 @@ private_range = [0xE000, 0xF8FF]
 # Name of the font (does not really matter)
 name = "Micodacs"
 # Path to the font file (relative to ./fonts)
-filename = "mikodacs.ttf"
+filename = "Mikodacs.otf"
 # Path to the file with symbols that you want to use with this font (relative to ./fonts)
 symbols = "symbols.txt"
 extra = [
@@ -18,7 +18,7 @@ extra = [
 
 [fonts.pretendard]
 name = "Pretendard"
-filename = "pretendard.ttf"
+filename = "Pretendard-Regular.otf"
 symbols = "symbols.txt"
 extra = [
   0x301,
@@ -26,7 +26,7 @@ extra = [
 
 [fonts.bebas]
 name = "Bebas Neue"
-filename = "bebasneue_bold.ttf"
+filename = "BebasNeue-Bold.otf"
 symbols = "symbols.txt"
 extra = [
   0x301,
@@ -34,7 +34,7 @@ extra = [
 
 [fonts.caveat]
 name = "Caveat"
-filename = "caveat.ttf"
+filename = "CAVEAT-VF-Regular.ttf"
 symbols = "symbols.txt"
 extra = [
   0x301,
@@ -42,7 +42,7 @@ extra = [
 
 [fonts.excelsior]
 name = "Excelsior Sans"
-filename = "excelsiorsans.ttf"
+filename = "EXCELSIORSANS-REGULAR_0 1.ttf"
 symbols = "symbols.txt"
 extra = [
   0x301,
@@ -50,8 +50,8 @@ extra = [
 
 [targets.title]
 filename = "Title.ttf"
-source = "mikodacs.ttf"
+source = "Mikodacs.otf"
 
 [targets.context]
 filename = "Context.ttf"
-source = "pretendard.ttf"
+source = "Pretendard-Regular.otf"
