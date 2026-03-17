@@ -24,9 +24,9 @@ extra = [
   0x301,
 ]
 
-[fonts.bebas]
-name = "Bebas Neue"
-filename = "BebasNeue-Bold.ttf"
+[fonts.ftystrategy]
+name = "FTY STRATEGYCIDE NCV"
+filename = "FtyStrategycideNcv-elGl.ttf"
 symbols = "symbols.txt"
 extra = [
   0x301,
