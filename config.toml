@@ -26,7 +26,7 @@ extra = [
 
 [fonts.bebas]
 name = "Bebas Neue"
-filename = "bebasneue_bold.ttf"
+filename = "BebasNeue-Bold VN Large.otf"
 symbols = "symbols.txt"
 extra = [
   0x301,
