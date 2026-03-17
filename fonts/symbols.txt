@@ -1,3 +1,4 @@
-0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ№«»!"#$%&\'()*+,-./:;<=>?@[\\]^_`{|}~
+АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдеёжзийклмнопрстуфхцчшщъыьэюя№«»
+0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!"#$%&\'()*+,-./:;<=>?@[\\]^_`{|}~
 „“「」『』…ⅠⅡⅢⅣⅤⅥⅦⅧⅨⅩⅪⅫ⁺
 ¡¿—※№←↑→↓↔↕↖↗↘↙■▶▽★☆
