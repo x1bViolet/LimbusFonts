@@ -18,7 +18,7 @@ extra = [
 
 [fonts.pretendard]
 name = "Pretendard"
-filename = "pretendard.ttf"
+filename = "Pretendard-Regular.otf"
 symbols = "symbols.txt"
 extra = [
   0x301,
